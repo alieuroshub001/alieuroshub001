@@ -40,7 +40,7 @@ const ali = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alieuroshub001&bg_color=00000000&color=7D8590&line=2DD4BF&point=E6EDF3&area=true&area_color=2DD4BF&hide_border=true&hide_title=true" />
+  <img src="https://streak-stats.demolab.com/?user=alieuroshub001&hide_border=true&background=00000000&ring=2DD4BF&fire=2DD4BF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=9BA7B4&dates=7D8590&stroke=30363D&card_width=720" />
 </p>
 
 <br />
