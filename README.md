@@ -35,12 +35,12 @@ const ali = {
 ## 03 — activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alieuroshub001&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=9BA7B4" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieuroshub001&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=9BA7B4" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alieuroshub001&show_icons=true&hide_rank=true&bg_color=0A0F14&border_color=1E2A33&border_radius=14&title_color=2DD4BF&icon_color=2DD4BF&text_color=9BA7B4" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieuroshub001&layout=compact&langs_count=6&bg_color=0A0F14&border_color=1E2A33&border_radius=14&title_color=2DD4BF&text_color=9BA7B4" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alieuroshub001&hide_border=true&background=00000000&ring=2DD4BF&fire=2DD4BF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=9BA7B4&dates=7D8590&stroke=30363D&card_width=720" />
+  <img src="https://streak-stats.demolab.com/?user=alieuroshub001&background=0A0F14&border=1E2A33&border_radius=14&ring=2DD4BF&fire=2DD4BF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=9BA7B4&dates=7D8590&stroke=30363D&card_width=720" />
 </p>
 
 <br />
